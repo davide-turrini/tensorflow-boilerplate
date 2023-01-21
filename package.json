@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "tf implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tf",
+    "ml"
+  ],
+  "author": "dt.turrini@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "eslint": "^8.31.0"
+  }
+}
